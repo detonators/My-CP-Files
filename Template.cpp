@@ -32,6 +32,7 @@ using namespace std;
 #define gridin(num,n,m) for0(n){for0j(m) cin >> num[i][j];}
 #define dispgrid(num,n,m) for0(n){for0j(m) cout << num[i][j] << ' '; cout << endl;}
 
+
 // Input Output Helpers
 #define tks(x) string x;cin >> x;
 #define tk(a) int a;cin >> a;
